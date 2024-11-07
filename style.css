@@ -1,0 +1,44 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+text-align: center;
+}
+body{
+    background-color: rebeccapurple;
+}
+ 
+nav{
+    background-color: rgb(208, 255, 0);
+    padding: 1%;
+}
+h1{
+  background-color: lightblue;
+  color: green rgb( 9, 196, )
+}
+ 
+p{
+    background-color: blue;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 2%;
+ 
+}
+.Biscocho-Johnrich-verifica-6nov2024 {
+    background-color: peru;
+    color:khaki
+}
+ 
+.allineamento-dx-leggero{
+    text-align: left;
+    font-weight: 100;
+ 
+}
+ 
+.container{
+    display: flex;
+    background-color: gold;
+}
+ 
+.container2{
+    background-color: mediumaquamarine;
+}
